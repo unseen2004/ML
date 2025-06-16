@@ -1,0 +1,9 @@
+labor3:
+make
+./game_server 127.0.0.1 12345
+./game_random_bot 127.0.0.1 12345 2 Bot2
+
+client:
+./minimax_client 127.0.0.1 8080 1 Bot1 5
+./minimax_client <adres_ip> <port> <numer_gracza> <nazwa> <głębokość>
+./minimax_client 127.0.0.1 12345 1 Player_1 5

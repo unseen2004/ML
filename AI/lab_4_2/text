@@ -1,0 +1,24 @@
+1. Accuracy of the Classification
+Overall Cluster Purity: 74.97%
+Misclassification Rate: 25.03%
+2. Percentage of Noise
+Noise Points: 325 out of 10,000 samples
+Percentage of Noise: 3.25%
+3. Percentage of Misclassifications in Clusters
+Misclassification rate within clusters is directly related to the cluster purity. For example:
+Cluster 0: Purity = 42.75% (high misclassification)
+Cluster 1: Purity = 92.06% (low misclassification)
+Cluster 5: Purity = 95.57% (very low misclassification)
+4. Number of Clusters
+Total Clusters: 13
+The number of clusters is within the acceptable range (10–30).
+5. Uniformity of Clusters
+Most clusters are dominated by a single digit, e.g.:
+Cluster 1: Dominant digit = 0, Purity = 92.06%
+Cluster 3: Dominant digit = 2, Purity = 92.99%
+Some clusters show lower uniformity, e.g.:
+Cluster 0: Dominant digit = 4, Purity = 42.75%
+6. Parameter Selection
+Optimal Parameters:
+eps = 0.300
+min_samples = 35

@@ -1,0 +1,20 @@
+dla 3x3:
+sredni: stan, kroki
+1:9864.2,21.6
+2:805.58,21.6
+
+4x4
+Manhattan: 1318366, 53
+
+-----
+dla 3x3:
+1: 2400, 18
+2: 328, 18
+
+dla 4x4:
+Średnia liczba odwiedzonych stanów:
+  Heurystyka Hamminga: 3528.06
+  Heurystyka Manhattan: 281.52
+Średnia liczba kroków do rozwiązania:
+  Heurystyka Hamminga: 19.68
+  Heurystyka Manhattan: 19.68
