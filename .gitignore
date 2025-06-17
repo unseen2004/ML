@@ -1,0 +1,36 @@
+# Python-related files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.ipynb_checkpoints/
+
+# C++ build files
+build/
+*.o
+*.obj
+*.so
+*.a
+*.dll
+*.exe
+
+# IDE-specific files
+.idea/
+.vscode/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# CMake generated files
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+
+# Data files
+data/
+*.png
+
+# System files
+.DS_Store
+Thumbs.db
