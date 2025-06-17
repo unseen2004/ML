@@ -1,3 +1,0 @@
-/home/maks/Programming/ML/AI/15_puzzle_bot/build/CMakeFiles/15_puzzle_bot.dir
-/home/maks/Programming/ML/AI/15_puzzle_bot/build/CMakeFiles/edit_cache.dir
-/home/maks/Programming/ML/AI/15_puzzle_bot/build/CMakeFiles/rebuild_cache.dir
